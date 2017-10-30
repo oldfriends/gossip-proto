@@ -1,0 +1,23 @@
+{
+  "name": "gossip-proto",
+  "version": "1.0.0",
+  "description": "prototype of the clique gossip protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldfriends/gossip-proto.git"
+  },
+  "author": "jae kaplan <me@jkap.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oldfriends/gossip-proto/issues"
+  },
+  "homepage": "https://github.com/oldfriends/gossip-proto#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "seedrandom": "^2.4.3"
+  }
+}
